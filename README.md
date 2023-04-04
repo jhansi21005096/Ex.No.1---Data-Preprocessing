@@ -95,7 +95,7 @@ X_train.shape
 ## OUTPUT:
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output1nn.png)
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output2nn.png)
-![output]()
+![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output3nn.png)
 ![output]()
 ![output]()
 ![output]()
