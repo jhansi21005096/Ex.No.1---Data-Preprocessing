@@ -93,19 +93,33 @@ print("Size of X_test: ",len(X_test))
 X_train.shape
 
 ## OUTPUT:
+## Dataset
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output1nn.png)
+## checking for null values
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output2nn.png)
+## checking for duplicate values
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output3nn.png)
+## describing data
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output4nn.png)
+## checking for outliers in exicted column
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output5nn.png)
+## normalized dataset
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output6nn.png)
+## describing normalized dataset
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output7nn.png)
+## x-values
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output8nn.png)
+## y-value
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output9nn.png)
+## x_train values
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output10nn.png)
+## x_train size
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output11nn.png)
+## x_test values
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output12nn.png)
+##  x_test size
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output13nn.png)
+## x_train shape
 ![output](https://github.com/jhansi21005096/Ex.No.1---Data-Preprocessing/blob/main/output14nn.png)
 
 ## RESULT
